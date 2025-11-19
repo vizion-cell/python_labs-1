@@ -1,4 +1,4 @@
-# effective-broccoli
+# vi
 
 ## Лабораторная работа 1
 
